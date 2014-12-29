@@ -25,6 +25,7 @@ public class Tile : MonoBehaviour {
 		set { selected = value;}
 	}
 
+	//test
 	public bool isBlueTile;
 
 	// Materials
